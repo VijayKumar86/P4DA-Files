@@ -16,3 +16,4 @@ Update Jan 27 2023 8:30AM: Made Progress with Numpy Indexing and Slicing. Slicin
 Update Jan 29 2023 11:30PM: Made Progress with Numpy Indexing and Slicing. Slicing and Indexing nDimensionsal array.
 Update Feb 03 2023 6:40AM: Made Progress with Numpy Boolean Indexing. Slicing indexing using boolean array.
 Update Feb 05 2023 7:40PM: Made Progress with Numpy Fancy Indexing. Reordering Array elements.
+Update Feb 07 2023 9:00PM: Made Progress with Numpy Array Transpose. Tested out arr.T and arr.swapaxes().methods
